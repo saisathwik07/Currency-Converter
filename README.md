@@ -42,5 +42,5 @@ demo :
 ## ▶️ How to Run Locally
 
 1. Clone the repository:
-
+https://github.com/saisathwik07/Currency-Converter
 
